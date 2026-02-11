@@ -3,122 +3,49 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Victors Resumé</title>
-<style>
-body {
-font-family: Arial, sans-serif;
-line-height: 1.6;
-margin: 20px;
-background-color: #f4f4f4;
-color: #333;
-}
-.container {
-max-width: 900px;
-margin: auto;
-background: #fff;
-padding: 30px;
-border-radius: 8px;
-box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-h1, h2, h3 {
-color: #333;
-}
-h1 {
-text-align: center;
-color: #0056b3;
-}
-.profile-photo {
-display: block;
-margin: 0 auto 20px auto;
-border-radius: 50%;
-width: 150px;
-height: 150px;
-object-fit: cover;
-border: 3px solid #0056b3;
-}
-section {
-margin-bottom: 25px;
-padding-bottom: 15px;
-border-bottom: 1px solid #eee;
-}
-table {
-width: 100%;
-border-collapse: collapse;
-margin-top: 10px;
-}
-table, th, td {
-border: 1px solid #ddd;
-}
-th, td {
-padding: 10px;
-text-align: left;
-}
-th {
-background-color: #0056b3;
-color: white;
-}
-ul {
-list-style-type: none;
-padding: 0;
-}
-ul li:before {
-content: "• ";
-color: #0056b3;
-font-weight: bold;
-display: inline-block;
-width: 1em;
-margin-left: -1em;
-}
-.contact-info {
-text-align: center;
-margin-bottom: 20px;
-}
-.contact-info p {
-margin: 5px 0;
-}
-</style>
+<title>Victor's Resume</title>
 </head>
 <body>
-<div class="container">
+<div>
 <h1>Victor Ekong - Personal Resumé</h1>
 
-<div class="contact-info">
-<img src="c:\Users\tende\OneDrive\Desktop\CPRG-213\unnamed.jpg" alt="Profile Photo" class="profile-photo">
-<p>Email: <a href="mailto:ekongvictor42@gmail.com">ekongvictor42@gmail.com</a> | Phone: (587) 436-3151 | Location: Airdrie, Alberta</p>
+<div>
+<img src="https://tse4.mm.bing.net/th/id/OIP.ovnqXOHV77PU3P91sro9SQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Profile Photo">
+<p>Email: <a href="mailto:victorekong@gmail.com">victorekong@gmail.com</a> | Phone: (587) 456-7890 | Location: Airdrie, Alberta</p>
 </div>
 
 <section>
 <h2>Career Goal</h2>
-<p>Self motivated individual with many years of experience in administrative work.</p>
+<p>Seeking to contribute to innovative projects and achieve professional growth in a dynamic environment.</p>
 </section>
 
 <section>
 <h2>Education</h2>
-<h3>Bsc.Software Development</h3>
+<h3>Computer Programming and Analysis</h3>
 <p><strong>SAIT Polytechnic</strong>, Calgary, AB</p>
-<p>Graduation: 2028, July</p>
+<p>Graduation: May 2025</p>
 <ul>
-<li>Relevant Coursework: CPRG 213, Business Management, Office administration</li>
-<li>Awards/Honors: Valedictorian, Jack Britt High School, Class Of 2019</li>
+<li>Relevant Coursework: Object-Oriented Programming, Database Management, Web Development, Software Engineering</li>
+<li>Awards/Honors: Valedictorian of my cohort</li>
 </ul>
 <p>Check out the <a href="https://www.sait.ca/" target="_blank">SAIT Website</a> for more on excellent education!</p>
 </section>
 
 <section>
 <h2>Work Experience</h2>
-<h3>Body Shop Estimator</h3>
-<p><strong>Cam Clark Ford</strong>, Airdrie, Alberta | January 2026 – February 2026</p>
+<h3>Junior Software Developer</h3>
+<p><strong>ABC Tech Solutions</strong>, Calgary, AB | June 2024 – Present</p>
 <ul>
-<li>Wrote Estimates</li>
-<li>Assisted Customers</li>
-<li>Increase Shops Output</li>
+<li>Developed and maintained web applications using React and Node.js.</li>
+<li>Collaborated with team members to design and implement new features.</li>
+<li>Participated in code reviews and contributed to improving code quality.</li>
 </ul>
 
-<h3>Customer Service Representative</h3>
-<p><strong>Carstar Airdrie</strong>, Airdrie, Alberta | January 2025 – December 2025</p>
+<h3>Administrative Assistant</h3>
+<p><strong>YYC Corporation</strong>, Calgary, AB | January 2023 – May 2024</p>
 <ul>
-<li>Assisted Customers with Vehicle Inspections</li>
-<li>Managed Customer Complaints and Resolved Issues</li>
+<li>Managed office operations and coordinated meetings.</li>
+<li>Assisted in preparing reports and maintaining records.</li>
 </ul>
 </section>
 
@@ -154,15 +81,15 @@ margin: 5px 0;
 
 <section>
 <h2>Personal Projects</h2>
-<h3>Save The Trees Project</h3>
-<p><strong>Description:</strong> A project aimed at promoting environmental awareness and encouraging tree planting initiatives in local communities.</p>
+<h3>Feed the Nation</h3>
+<p><strong>Description:</strong> A web application that connects local food banks with volunteers and donors to help reduce food waste and support those in need.</p>
 <ul>
-<li>Created a community-driven platform for tree planting events</li>
-<li>Implemented user registration and event management features</li>
+<li>Developed using React, Node.js, and MongoDB</li>
+<li>Implemented user authentication and role-based access control</li>
 </ul>
 
-<h3>Feed the Nation Campaign</h3>
-<p><strong>Description:</strong> A campaign to raise awareness and support for food security initiatives in underserved communities.</p>
+<h3>Save The Trees</h3>
+<p><strong>Description:</strong> A mobile application that helps users identify and track endangered tree species in their local area.</p>
 </section>
 
 <section>
